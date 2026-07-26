@@ -22,42 +22,24 @@ I enjoy designing databases, analyzing business problems, and developing data-dr
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Programming**
-
-- Python
-- SQL
-- R
-
-**Database**
-
-- SQL Server
-- MySQL
-
-**Analytics**
-
-- Pandas
-- NumPy
-- Tableau
-- Excel
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
+| **Category** | **Technologies** |
+|--------------|------------------|
+| 💻 Languages | Python • SQL • R |
+| 🗄️ Databases | MySQL • SQL Server |
+| 📊 Analytics | Pandas • NumPy • Tableau • Excel |
+| ⚙️ Tools | Git • GitHub • VS Code |
 
 ---
 
-## Current Projects
+## 🚀 Current Projects
 
-📈 SDG16 Intelligence Platform
+📈 [SDG16 Intelligence Platform](https://drive.google.com/drive/folders/12UUiCkw3nkBxMJqUG-mDxun0_70uBz8n?usp=sharing)
 
-🏥 Diabetes Patient Database
+🏥 [Data Warehouse & Business Intelligence](https://drive.google.com/drive/folders/1MQdRwtJjQgOYp6l9vR8-SlMLNCX4NUzg?usp=drive_link)
 
-📊 ClassicModels Business Intelligence
-
+📊 [ClassicModels Business Intelligence](https://drive.google.com/drive/folders/1q1-3L8H5Rz6MsM5a83tWuH0HXC4mEnw1?usp=drive_link)
 ---
 
 ## Let's Connect
