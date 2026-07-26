@@ -1,4 +1,4 @@
-# Hi, I'm Kim Oanh 👋
+# Hi, I'm Kim Oanh 🍍
 
 Aspiring Data Analyst passionate about transforming data into actionable insights.
 
@@ -33,13 +33,40 @@ I enjoy designing databases, analyzing business problems, and developing data-dr
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-📈 [SDG16 Intelligence Platform](https://drive.google.com/drive/folders/12UUiCkw3nkBxMJqUG-mDxun0_70uBz8n?usp=sharing)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-🏥 [Data Warehouse & Business Intelligence](https://drive.google.com/drive/folders/1MQdRwtJjQgOYp6l9vR8-SlMLNCX4NUzg?usp=drive_link)
+### 📈 SDG16 Intelligence Platform
 
-📊 [ClassicModels Business Intelligence](https://drive.google.com/drive/folders/1q1-3L8H5Rz6MsM5a83tWuH0HXC4mEnw1?usp=drive_link)
+Machine learning platform for analyzing SDG16 governance indicators and generating data-driven policy insights.
+
+🔗 **[View Project](https://drive.google.com/drive/folders/12UUiCkw3nkBxMJqUG-mDxun0_70uBz8n?usp=sharing)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 Data Warehouse & BI
+
+Enterprise data warehouse with ETL pipelines, Star Schema modeling, SCD Type 1/2, and reporting optimization.
+
+🔗 **[View Project](https://drive.google.com/drive/folders/1MQdRwtJjQgOYp6l9vR8-SlMLNCX4NUzg?usp=drive_link)**
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 ClassicModels BI
+
+Customer segmentation, revenue analysis, forecasting, and interactive dashboards for business decision support.
+
+🔗 **[View Project](https://drive.google.com/drive/folders/1q1-3L8H5Rz6MsM5a83tWuH0HXC4mEnw1?usp=drive_link)**
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Let's Connect
