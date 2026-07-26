@@ -1,67 +1,62 @@
+<div align="center">
+
 # Hi, I'm Kim Oanh 🍍
 
-Aspiring Data Analyst passionate about transforming data into actionable insights.
+### Aspiring Data Analyst | Data Engineering Student
 
-I enjoy designing databases, analyzing business problems, and developing data-driven solutions that help organizations make better decisions and create sustainable value.
+> *Turning data into meaningful decisions.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kim-oanh-144a6b283/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:nguyenoanhtld@gmail.com)
 
-## About Me
-
-🎓 Data Engineering Student
-
-📍 Ho Chi Minh City, Vietnam
-
-📊 Interested in
-
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Machine Learning
-- Sustainable Development
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👋 About Me
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| 💻 Languages | Python • SQL • R |
-| 🗄️ Databases | MySQL • SQL Server |
-| 📊 Analytics | Pandas • NumPy • Tableau • Excel |
-| ⚙️ Tools | Git • GitHub • VS Code |
+I believe **data becomes valuable only when combined with critical thinking**.  
+My goal is to transform raw data into meaningful insights that support evidence-based decision making and contribute to sustainable development.
+
+Currently pursuing a Bachelor's degree in **Data Engineering**, I continuously improve my skills through hands-on projects in analytics, business intelligence, and data engineering.
 
 ---
 
-## 🚀 Featured Projects
+## 🌱 Interests
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td>
 
-### 📈 SDG16 Intelligence Platform
+📊 **Data Analytics**
 
-Machine learning platform for analyzing SDG16 governance indicators and generating data-driven policy insights.
-
-🔗 **[View Project](https://drive.google.com/drive/folders/12UUiCkw3nkBxMJqUG-mDxun0_70uBz8n?usp=sharing)**
+Extract meaningful insights from data.
 
 </td>
-<td width="33%" valign="top">
 
-### 🏥 Data Warehouse & BI
+<td>
 
-Enterprise data warehouse with ETL pipelines, Star Schema modeling, SCD Type 1/2, and reporting optimization.
+📈 **Business Intelligence**
 
-🔗 **[View Project](https://drive.google.com/drive/folders/1MQdRwtJjQgOYp6l9vR8-SlMLNCX4NUzg?usp=drive_link)**
+Support better business decisions.
 
 </td>
-<td width="33%" valign="top">
+</tr>
 
-### 📊 ClassicModels BI
+<tr>
+<td>
 
-Customer segmentation, revenue analysis, forecasting, and interactive dashboards for business decision support.
+🏗 **Data Engineering**
 
-🔗 **[View Project](https://drive.google.com/drive/folders/1q1-3L8H5Rz6MsM5a83tWuH0HXC4mEnw1?usp=drive_link)**
+Build reliable data foundations.
+
+</td>
+
+<td>
+
+🌍 **Sustainable Development**
+
+Apply data to real-world challenges.
 
 </td>
 </tr>
@@ -69,10 +64,138 @@ Customer segmentation, revenue analysis, forecasting, and interactive dashboards
 
 ---
 
-## Let's Connect
+# 🛠 Tech Stack
 
-Email:
+| Category | Technologies |
+|----------|--------------|
+| 💻 Programming | Python • SQL • R |
+| 🗄 Database | MySQL • SQL Server |
+| 📊 Data Analytics | Pandas • NumPy • Excel • Tableau • Matplotlib |
+| 🤖 Machine Learning | XGBoost • Prophet • SHAP |
+| ⚙️ Tools | Git • GitHub • VS Code |
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 📈 SDG16 Intelligence Platform
+
+**Machine Learning for Sustainable Development**
+
+A data analytics platform integrating governance datasets to evaluate SDG 16 indicators and generate evidence-based policy recommendations.
+
+**Highlights**
+
+- Data Integration
+- Panel Regression
+- XGBoost & GRU
+- Explainable AI (SHAP)
+- Policy Analytics
+
+**Tech**
+
+Python • SQL • Pandas • XGBoost • SHAP
+
+🔗 **View Project**
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🏢 Enterprise Data Warehouse
+
+**Data Warehouse & Business Intelligence**
+
+Designed an enterprise data warehouse using Star Schema with ETL pipelines and historical data management.
+
+**Highlights**
+
+- Star Schema
+- ETL Pipeline
+- SCD Type 1 & 2
+- Business Reporting
+
+**Tech**
+
+SQL Server • SSIS • SQL • ETL
+
+🔗 **View Project**
+
+</td>
+
+<td width="33%" valign="top">
+
+## 📊 ClassicModels BI
+
+**Business Analytics**
+
+Analyzed customer behavior and sales performance to generate business insights and support strategic decisions.
+
+**Highlights**
+
+- SQL Analytics
+- Revenue Forecasting
+- Dashboard
+- Customer Segmentation
+
+**Tech**
+
+Python • SQL • MySQL • Prophet
+
+🔗 **View Project**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Data Visualization
+- Machine Learning
+- Cloud Data Engineering
+- Data Storytelling
+
+---
+
+# 📈 GitHub Activity
+
+<!-- GitHub Readme Stats -->
+
+<!-- Top Languages -->
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+
 nguyenoanhtld@gmail.com
 
-LinkedIn:
-https://www.linkedin.com/in/kim-oanh-144a6b283/
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/kim-oanh-144a6b283
+
+🌐 **Portfolio**
+
+Coming Soon 🚀
+
+---
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+*"Perspective guides the questions. Data validates the answers."*
+
+</div>
