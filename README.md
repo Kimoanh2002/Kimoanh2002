@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Kim Oanh 👋
 
-<!--
-**Kimoanh2002/Kimoanh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming data into actionable insights.
 
-Here are some ideas to get you started:
+I enjoy designing databases, analyzing business problems, and developing data-driven solutions that help organizations make better decisions and create sustainable value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+🎓 Data Engineering Student
+
+📍 Ho Chi Minh City, Vietnam
+
+📊 Interested in
+
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Machine Learning
+- Sustainable Development
+
+---
+
+## Tech Stack
+
+**Programming**
+
+- Python
+- SQL
+- R
+
+**Database**
+
+- SQL Server
+- MySQL
+
+**Analytics**
+
+- Pandas
+- NumPy
+- Tableau
+- Excel
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Current Projects
+
+📈 SDG16 Intelligence Platform
+
+🏥 Diabetes Patient Database
+
+📊 ClassicModels Business Intelligence
+
+---
+
+## Let's Connect
+
+Email:
+nguyenoanhtld@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/kim-oanh-144a6b283/
