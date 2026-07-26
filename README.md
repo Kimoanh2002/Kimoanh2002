@@ -76,6 +76,24 @@ Apply data to real-world challenges.
 
 ---
 
+# 📜 Certifications
+
+| Certification | Issuer | Credential |
+|--------------|--------|------------|
+| 🎓 Data Analytics Essentials | Cisco Networking Academy | 🔗 [View Credential](https://drive.google.com/file/d/1Qwp2ce2xKNTVqETtEPUKdiA6XoY8anXo/view?usp=drive_link) |
+| ☁️ Cloud Web Application Builder | AWS Academy | 🔗 [View Credential](https://drive.google.com/file/d/1OUukzozxK8fZO1CMROQ5untiW_ggWt8w/view?usp=drive_link) |
+| 🤖 Machine Learning Foundations | AWS Academy | 🔗 [View Credential](https://drive.google.com/file/d/1SyJAusbAO7XsPA3dBBNZJqJlm3VY4Rdn/view?usp=drive_link) |
+
+---
+# 🏆 Leadership & Activities
+
+| Program | Role | Credential |
+|---------|------|------------|
+| 🌱 Green Youth Pioneers 2024 | Participant | 🔗 [View Certificate](https://drive.google.com/file/d/1D68ppM_TGg558_ZXlTSKxE8Wr1E6npUV/view?usp=drive_link) |
+| 👥 Youth Leaders Incubator Programme 2024 | Coordinator | 🔗 [View Certificate](https://drive.google.com/file/d/1ZivNz9OabZaxRQ2nORvfw0HSOg8J17sU/view?usp=drive_link) |
+| 🎓 Faculty of Information Technology | Class Monitor | 🔗 [View Certificate](https://drive.google.com/file/d/1izqX8SUEHc1gYUta7_b8rhKkp-ID2FdZ/view?usp=drive_link) |
+
+---
 # 🚀 Featured Projects
 
 <table>
